@@ -246,7 +246,7 @@ io.on('connection', (socket) => {
     try {
       console.log('reconnect now!', socket.id)
     } catch (e) {
-      console.log('error in reconnect socket poop', e)
+      console.log('error in reconnect socket', e)
     }
   })
 })
