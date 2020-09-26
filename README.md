@@ -1,5 +1,7 @@
 hello! this is the game [Basta!](https://www.spanishplayground.net/basta-game-spanish-vocabulary/)
 
+<img src="https://media.giphy.com/media/pUK77wG1oHvEh916eC/giphy.gif" alt="basta game"/>
+
 ## to run the frontend
 
 from the `client` directory run `npm start`
